@@ -1,0 +1,23 @@
+body{
+    background-color: #252525;
+    color: aliceblue;
+    font-family:Courier;
+}
+.data-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    flex-direction: column;
+}
+.img-container
+{
+    width: 350px;
+    height: 300px;
+    object-fit:cover;
+    border-radius: 50%;
+}
+.content-container
+{
+    text-align: center;
+}
